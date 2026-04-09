@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+knowledge_store/db/
+.claude/
+Take_Home_Full_Detailed_Guide.pdf
